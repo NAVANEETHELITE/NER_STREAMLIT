@@ -11,6 +11,10 @@ A genreal purpose Named Entity Recognition model using Spacy.
 * spacy==3.0.0
 * streamlit
 * spacy_streamlit
+* Download the en_core_web_sm package for Spacy v3.0.0 as follows. 
+```sh
+pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
+```
 
 ### CREATING VENV IN CONDA:
 ```sh
