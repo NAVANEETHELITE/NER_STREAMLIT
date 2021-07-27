@@ -3,7 +3,6 @@
 A genreal purpose Named Entity Recognition model using Spacy.
 - UI is guarded by Streamlit.
 - This application was deployed to Heroku.
-- Build pack to be added in Heroku : heroku/python
 -  <strong><b> APP LINK : https://ner-streamlit-nav.herokuapp.com/</b></strong>
 
 ### REQUIREMENTS:
@@ -26,7 +25,17 @@ Deactivating a virtual environment:
 conda deactivate myenv
 ```
 ### RUNNING THE APPLICATION:
-
+- Install all the dependencies in the virtual environment.
+- Then run :
+```sh
+streamlit run app.py
+```
+- Your app will be running in the local server.
+- Then deploy the app to Heroku or some other platforms you like!
+- Build pack to be added in Heroku :  
+```sh
+heroku/python
+```
 - The home page of the web app is shown below:
 <div class="row">
     <img src="Home_page.png" title='HomePage' alt="index" style="width:30%">
