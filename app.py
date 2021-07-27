@@ -2,9 +2,8 @@ import streamlit as st
 import spacy_streamlit
 import spacy
 from spacy import displacy
-from pathlib import Path
-path = Path("en_core_web_sm")
-nlp = spacy.load(path)
+import en_core_web_sm
+nlp = en_core_web_sm.load()
 
 import os
 from PIL import Image
