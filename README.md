@@ -6,14 +6,14 @@ A genreal purpose Named Entity Recognition model using Spacy.
 - Build pack to be added in Heroku : heroku/python
 -  <strong><b> APP LINK : https://ner-streamlit-nav.herokuapp.com/</b></strong>
 
-## REQUIREMENTS:
+### REQUIREMENTS:
 
 * Python 3.7+
 * spacy==3.0.0
 * streamlit
 * spacy_streamlit
 
-## CREATING VENV IN CONDA:
+### CREATING VENV IN CONDA:
 ```sh
 conda create --name myenv
 ```
@@ -25,7 +25,7 @@ Deactivating a virtual environment:
 ```sh
 conda deactivate myenv
 ```
-## RUNNING THE APPLICATION:
+### RUNNING THE APPLICATION:
 
 - The home page of the web app is shown below:
 <div class="row">
