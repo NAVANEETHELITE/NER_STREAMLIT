@@ -3,8 +3,7 @@ import spacy_streamlit
 import spacy
 from spacy import displacy
 import en_core_web_sm
-nlp = en_core_web_sm.load()
-
+nlp = spacy.load("en_core_web_sm")
 import os
 from PIL import Image
 
