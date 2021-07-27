@@ -1,6 +1,6 @@
 # <b>NER_STREAMLIT</b>
 - A genreal purpose Named Entity Recognition model using Spacy.
-- UI is guarded by Stereamlit xD.
+- UI is guarded by Streamlit.
 - This application was deployed to Heroku.
 -  <strong><b> APP LINK : https://ner-streamlit-nav.herokuapp.com/</b></strong>
 - The home page of the web app is shown below:
