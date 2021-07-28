@@ -1,0 +1,3 @@
+spacy
+streamlit
+spacy_streamlit
