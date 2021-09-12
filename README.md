@@ -42,5 +42,5 @@ heroku/python
 ```
 - The home page of the web app is shown below:
 <div class="row">
-    <img src="Home_page.png" title='HomePage' alt="index" style="width:30%">
+    <img src="Home_page.png" title='HomePage' alt="index" style="width:100%">
 </div>
